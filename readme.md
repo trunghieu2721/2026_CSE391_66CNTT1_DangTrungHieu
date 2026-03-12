@@ -2,7 +2,7 @@
 
 - **Họ và tên:** Đặng Trung Hiếu  
 - **Lớp:** 66CNTT1  
-- **Mã sinh viên:** 2451060720  
+- **Mã sinh viên:** 2451060657
 - **Năm học:** 2026  
 
 ---
@@ -13,7 +13,7 @@
 
 🔹 **Task 3: Bảng điểm sinh viên**
 
-- File chạy: [Xem ex3.html](baithuchanh1/bai3.html)  
+- File chạy: [Xem ex3.html](baithuchanh1/bai3)  
 - Mô tả: Tạo bảng điểm với các ô gộp dòng/cột.
 
 ---
