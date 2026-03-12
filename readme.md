@@ -29,6 +29,6 @@
 
 - Màn hình danh sách: [Xem ex5.html](baithuchanh1/ex5.html)
   # BÀI TẬP THỰC HÀNH SỐ 02 - CSE391
-  - Phiếu học tập: [Xem phiếu học tập.docxl](PK)
+  - Phiếu học tập: [Xem phiếu học tập](PK)
  
   
